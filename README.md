@@ -8,7 +8,7 @@ App Webpage: [Timestamp API](https://fcc-timestamp-apiproject.glitch.me "Timesta
 
 Glitch Project: [Timestamp API](https://glitch.com/~fcc-timestamp-apiproject)
  
-Completed API and Microservices Certification: [Certificate](https://www.freecodecamp.org/certification/carlitos/data-visualization "FreeCodeCamp.Com").
+Completed API and Microservices Certification: [Certificate](https://www.freecodecamp.org/certification/carlitos/apis-and-microservices "FreeCodeCamp.Com").
 
 ## Technologies Used:
 > * HTML, JavaScript, CSS, Node.js and Express.js   
