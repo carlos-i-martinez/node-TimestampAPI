@@ -10,6 +10,8 @@ Glitch Project: [Timestamp API](https://glitch.com/~fcc-timestamp-apiproject)
  
 Completed API and Microservices Certification: [Certificate](https://www.freecodecamp.org/certification/carlitos/apis-and-microservices "FreeCodeCamp.Com").
 
+FreeCodeCamp Public Profile: [Carlos Martinez FreeCodeCamp](https://www.freecodecamp.org/carlitos)
+
 ## Technologies Used:
 > * HTML, JavaScript, CSS, Node.js and Express.js   
 
